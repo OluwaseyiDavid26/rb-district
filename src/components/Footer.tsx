@@ -165,6 +165,7 @@
 //     </div>
 //   );
 // }
+
 import Image from "next/image";
 
 export default function Footer() {
@@ -173,7 +174,7 @@ export default function Footer() {
       {/* Video Hero Section */}
       <div className="relative w-full h-[500px] lg:h-[600px] overflow-hidden">
         <video
-          src="https://drive.google.com/uc?export=download&id=1a4Pu2fTRbKC_T5dvGyz_5yGVnvby502V"
+          src="https://res.cloudinary.com/ddumnsksy/video/upload/v1763511819/rbd-video_hywxij.mp4"
           autoPlay
           loop
           muted
